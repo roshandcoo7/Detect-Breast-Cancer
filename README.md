@@ -1,2 +1,2 @@
-# Detect-Breast-Cancer
-Prediting whether the patient has cancer or not
+# Breast-Cancer-Detection
+The data set contained details about masses detected in mammograms and some other features like the age of the patient, shape, and density of the mass found, etc. And I used different machine learning and deep learning techniques like Naive Bayes, SVM, KNN, Random Forest and an Artificial neural network on the data set to see which one was giving the best quality output. Performance can be improved again by additional hyperparameter tuning and trying different topologies for the neural network.
