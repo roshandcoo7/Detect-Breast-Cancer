@@ -1,5 +1,6 @@
 from math import *
 import pandas as pd
+from itertools import permutations
 
 # I hope this works
 
